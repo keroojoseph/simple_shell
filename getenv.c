@@ -4,6 +4,7 @@
  * duplicateEnvironment - returns the copied string array of our environment
  * @infoData: Structure containing potential arguments and environment variables.
  * Return: The copied environment string array
+ * This project made by Kero & Mark
  */
 char **duplicateEnvironment(info_t *infoData)
 {
