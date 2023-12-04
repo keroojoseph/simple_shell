@@ -3,7 +3,7 @@
 /**
  * displayErrorText - prints an error string to standard error
  * @errorText: the string to be printed
- *
+ * This project made by Kero & Mark
  * Return: Nothing
  */
 void displayErrorText(char *errorText)
