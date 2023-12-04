@@ -3,6 +3,7 @@
 /**
  * initializeShellInfo - initializes the shell_info_t struct fields to NULL
  * @shell_info: pointer to the shell_info_t struct
+ * This project made by Kero & Mark
  */
 void initializeShellInfo(shell_info_t *shell_info)
 {
