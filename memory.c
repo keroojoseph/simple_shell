@@ -5,6 +5,7 @@
  * @ptr: address of the pointer to free
  * This project made by Kero & Mark
  * Return: 1 if freed, otherwise 0
+ * This project made by Kero & Mark
  */
 int freeAndSetNull(void **ptr)
 {
