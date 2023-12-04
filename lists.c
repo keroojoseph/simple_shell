@@ -5,7 +5,7 @@
  * @head: pointer to the head node
  * @str: string field of the node
  * @num: node index used by history
- *
+ * This project made by Kero & Mark
  * Return: pointer to the new head of the list
  */
 list_t *prependNode(list_t **head, const char *str, int num)
