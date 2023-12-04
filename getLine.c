@@ -6,6 +6,7 @@
  * @buffer: address of buffer
  * @length: address of length variable
  * Return: bytes read
+ * This project made by Kero & Mark
  */
 ssize_t bufferChainedCmds(shell_info_t *shell_info, char **buffer, size_t *length)
 {
