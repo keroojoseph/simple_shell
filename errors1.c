@@ -5,6 +5,7 @@
  * @str: the string to be converted
  * Return: 0 if no numbers in the string, converted number otherwise
  *       -1 on error
+ * This project made by Kero & Mark
  */
 int convertStringToInt(char *str)
 {
