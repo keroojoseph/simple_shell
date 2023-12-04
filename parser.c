@@ -4,7 +4,7 @@
  * isFileExecutable - checks if a file is an executable command
  * @info: the information struct
  * @filepath: the path to the file
- *
+ * This project made by Kero & Mark
  * Return: 1 if true, 0 otherwise
  */
 int isFileExecutable(info_t *info, char *filepath)
