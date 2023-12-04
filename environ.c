@@ -4,6 +4,7 @@
  * showCurrentEnvironment - prints the current environment
  * @data_info: Structure containing potential arguments
  * Return: Always returns 0
+ * This project made by Kero & Mark
  */
 int showCurrentEnvironment(info_t *data_info)
 {
