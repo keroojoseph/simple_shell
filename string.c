@@ -3,7 +3,7 @@
 /**
  * stringLength - returns the length of a string
  * @s: the string whose length to check
- *
+ * This project made by Kero & Mark
  * Return: integer length of string
  */
 int stringLength(char *s) {
