@@ -4,6 +4,7 @@
  * closeShell - closes the shell
  * @info_data: Structure containing potential arguments
  * Return: Exits with the given exit status (0) if info_data.argv[0] != "exit"
+ * This project made by Kero & Mark
  */
 int closeShell(info_t *info_data)
 {
