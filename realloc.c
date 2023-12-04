@@ -6,6 +6,7 @@
  * @byte: the byte to fill *destination with
  * @numBytes: the number of bytes to be filled
  * Return: a pointer to the memory area destination
+ * This project made by Kero & Mark
  */
 char *fillMemory(char *destination, char byte, unsigned int numBytes)
 {
