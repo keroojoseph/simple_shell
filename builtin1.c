@@ -4,6 +4,7 @@
  * showCommandHistory - displays the history list with line numbers
  * @info_command: Structure containing potential arguments.
  * Return: Always returns 0
+ * This project made by Kero & Mark
  */
 int showCommandHistory(command_info_t *info_command)
 {
