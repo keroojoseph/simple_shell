@@ -6,6 +6,7 @@
  * @src: the source string
  * @n: the number of characters to be copied
  * Return: the concatenated string
+ * This project made by Kero & Mark
  */
 char *copyString(char *dest, char *src, int n)
 {
