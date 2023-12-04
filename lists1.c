@@ -3,7 +3,7 @@
 /**
  * getListSize - determines the size of a linked list
  * @head: pointer to the first node
- *
+ * This project made by Kero & Mark
  * Return: size of the list
  */
 size_t getListSize(const list_t *head)
