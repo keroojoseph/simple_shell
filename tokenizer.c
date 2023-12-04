@@ -4,7 +4,7 @@
  * splitString - splits a string into words. Repeat delimiters are ignored
  * @str: the input string
  * @delimiter: the delimiter string
- *
+ * This project made by Kero & Mark
  * Return: a pointer to an array of strings, or NULL on failure
  */
 char **splitString(const char *str, const char *delimiter)
