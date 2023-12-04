@@ -4,7 +4,7 @@
  * stringCopy - copies a string
  * @dest: the destination
  * @src: the source
- *
+ * This project made by Kero & Mark
  * Return: pointer to destination
  */
 char *stringCopy(char *dest, const char *src) {
