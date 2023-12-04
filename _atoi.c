@@ -4,6 +4,7 @@
  * determineInteractive - verifies if the shell is in interactive mode
  * @infoPtr: pointer to the structure
  * Return: 1 if in interactive mode, 0 otherwise
+ * This project made by Kero & Mark
  */
 int determineInteractive(info_t *infoPtr)
 {
