@@ -3,7 +3,7 @@
 /**
  * obtainHistoryFilePath - retrieves the path for the history file
  * @info: pointer to the info_t struct
- *
+ * This project made by Kero & Mark
  * Return: string containing the history file path (allocated memory)
  */
 char *obtainHistoryFilePath(info_t *info)
