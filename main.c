@@ -4,7 +4,7 @@
  * main - entry point
  * @argc: argument count
  * @argv: argument vector
- *
+ * This project made by Kero & Mark
  * Return: 0 on success, 1 on error
  */
 int main(int argc, char **argv)
